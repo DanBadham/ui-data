@@ -2,75 +2,75 @@
     {
         "name": "News",
         "description": "",
-        "entries": "602",
+        "entries": "602 entries",
         "workflowState": "Published"
     },
     {
         "name": "Events",
         "description": "",
-        "entries": "54",
+        "entries": "54 entries",
         "workflowState": "Published"
     },
     {
         "name": "Blogs",
         "description": "",
-        "entries": "123",
+        "entries": "123 entries",
         "workflowState": "Draft"
 
     },
     {
         "name": "Courses",
         "description": "",
-        "entries": "94",
+        "entries": "94 entries",
         "workflowState": "Published"
 
     },
     {
         "name": "Venues",
         "description": "",
-        "entries": "18",
+        "entries": "18 entries",
         "workflowState": "Published"
 
     },
     {
         "name": "Person",
         "description": "",
-        "entries": "5000",
+        "entries": "5000 entries",
         "workflowState": "Published"
 
     },
     {
         "name": "Modules",
         "description": "",
-        "entries": "267",
+        "entries": "267 entries",
         "workflowState": "Published"
 
     },
     {
         "name": "Article",
         "description": "",
-        "entries": "153",
+        "entries": "153 entries",
         "workflowState": "Published"
 
     },
     {
         "name": "Product",
         "description": "",
-        "entries": "5",
+        "entries": "5 entries",
         "workflowState": "Published"
 
     },
     {
         "name": "Landing page",
         "description": "",
-        "entries": "10",
+        "entries": "10 entries",
         "workflowState": "Published"
 
     },
     {
         "name": "Research",
         "description": "",
-        "entries": "80",
+        "entries": "80 entries",
         "workflowState": "Published"
 
     }
