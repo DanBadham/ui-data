@@ -1,0 +1,77 @@
+[
+    {
+        "name": "News",
+        "description": "",
+        "entries": "602",
+        "workflowState": "Published"
+    },
+    {
+        "name": "Events",
+        "description": "",
+        "entries": "54",
+        "workflowState": "Published"
+    },
+    {
+        "name": "Blogs",
+        "description": "",
+        "entries": "123",
+        "workflowState": "Draft"
+
+    },
+    {
+        "name": "Courses",
+        "description": "",
+        "entries": "94",
+        "workflowState": "Published"
+
+    },
+    {
+        "name": "Venues",
+        "description": "",
+        "entries": "18",
+        "workflowState": "Published"
+
+    },
+    {
+        "name": "Person",
+        "description": "",
+        "entries": "5000",
+        "workflowState": "Published"
+
+    },
+    {
+        "name": "Modules",
+        "description": "",
+        "entries": "267",
+        "workflowState": "Published"
+
+    },
+    {
+        "name": "Article",
+        "description": "",
+        "entries": "153",
+        "workflowState": "Published"
+
+    },
+    {
+        "name": "Product",
+        "description": "",
+        "entries": "5",
+        "workflowState": "Published"
+
+    },
+    {
+        "name": "Landing page",
+        "description": "",
+        "entries": "10",
+        "workflowState": "Published"
+
+    },
+    {
+        "name": "Research",
+        "description": "",
+        "entries": "80",
+        "workflowState": "Published"
+
+    }
+]
