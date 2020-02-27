@@ -1,13 +1,13 @@
 [
     {
         "name": "News",
-        "description": "",
+        "description": "The latest news from the University",
         "entries": "602 entries",
         "workflowState": "Published"
     },
     {
         "name": "Events",
-        "description": "",
+        "description": "Events and activities running across University campuses.",
         "entries": "54 entries",
         "workflowState": "Published"
     },
@@ -20,7 +20,7 @@
     },
     {
         "name": "Courses",
-        "description": "",
+        "description": "Undergraduate and Post graduate courses available at the University",
         "entries": "94 entries",
         "workflowState": "Published"
 
