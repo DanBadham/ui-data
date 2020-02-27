@@ -1,6 +1,6 @@
 [
     {
-        "name": "News",
+        "name": "University news",
         "description": "The latest news from the University",
         "entries": "602 entries",
         "workflowState": "Published"
