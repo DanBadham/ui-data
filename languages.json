@@ -1,0 +1,63 @@
+[
+    {
+        "language": "English - Great Britain",
+        "languageCode": "en-GB",
+        "combined": "English - Great Britain (en-GB)"
+    },
+    {
+        "language": "English",
+        "languageCode": "en",
+        "combined": "English (en)"
+    },
+    {
+        "language": "French",
+        "languageCode": "fr",
+        "combined": "French (fr)"
+    },
+    {
+        "language": "Arabic",
+        "languageCode": "ar",
+        "combined": "Arabic (ar)"
+    },
+    {
+        "language": "Bengali",
+        "languageCode": "bn",
+        "combined": "Bengali (bn)"
+    },
+    {
+        "language": "Burmese",
+        "languageCode": "my",
+        "combined": "Burmese (my)"
+    },
+    {
+        "language": "Chinese",
+        "languageCode": "zh",
+        "combined": "Chinese (zh)"
+    },
+    {
+        "language": "Dutch",
+        "languageCode": "nl",
+        "combined": "Dutch (nl)"
+    },
+    {
+        "language": "Welsh",
+        "languageCode": "cy",
+        "combined": "Welsh (cy)"
+    },
+    {
+        "language": "Spanish",
+        "languageCode": "es",
+        "combined": "Spanish (es)"
+    },
+    {
+        "language": "Italian",
+        "languageCode": "it",
+        "combined": "Italian (it)"
+    },
+    {
+        "language": "German",
+        "languageCode": "de",
+        "combined": "German (de)"
+    }
+    
+]
